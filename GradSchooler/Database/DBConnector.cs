@@ -12,11 +12,11 @@ namespace GradSchooler.Database{
         private MySqlConnection conn;
         //used to be mal.cs.plu.edu
         private const string serverlocal = "localhost";
-        private const string server = "mal.cs.plu.edu";
+        private const string server = "SERVER_HERE";
         private const uint port = 2000; 
-        private const string userID = "grads";
-        private const string password = "grads";
-        private const string database = "gradschooler";
+        private const string userID = "#";
+        private const string password = "#";
+        private const string database = "#";
 
         /// <summary>
         /// default constructor
